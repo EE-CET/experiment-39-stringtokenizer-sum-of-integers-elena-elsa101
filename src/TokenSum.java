@@ -1,10 +1,8 @@
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
+  import java.util.*;
 public class TokenSum {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-       import java.util.*;
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
 
